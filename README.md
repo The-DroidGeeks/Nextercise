@@ -119,7 +119,22 @@ Individual Exercise, and Account Creation Screen Wireframes
 [This section will be completed in Unit 9]
 ### Models
 [Add table of models]
+| Property | Type | Description |
+| exerciseId | String | unique id for the exercise object |
+| image | File | image of the exercise being performed |
+| videoLink | String | link to video of someone performing the exercise |
+| category | String | the area the area focuses on |
+| user | Pointer to User | user that saves the exercise
+| exerciseList | List of Exercises | list of exercises created by the user, likely have a user id atached to each list |
+| exercise | New | Specialized type that contains the id, image, video, and category associated with an exercise |
 ### Networking
 - [Add list of network requests by screen ]
+- * Home Recommendation Screen
+-   * (Update/Put) Update new exercise on home screen for user to try
+- * Exercise Search Screen
+-   * (GET/ Update) Search and retrieve exercise objects from user parameters, update screen with new results.
+- * Profile Screen
+-   * (Create/ Post) Create new lists to store exercises.
+-   * (Update/ PUT) Edit account credentials.
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
