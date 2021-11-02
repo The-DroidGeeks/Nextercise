@@ -138,3 +138,10 @@ Individual Exercise, and Account Creation Screen Wireframes
 -   * (Update/ PUT) Edit account credentials.
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+
+### Unit 10 User Stories Completed:
+
+Began working on prototype that would satisfy all user stories.
+New objectives for next week have been established.
+Wireframes have been implemented in bare bones fashion in android stuido.
