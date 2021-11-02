@@ -145,3 +145,6 @@ Individual Exercise, and Account Creation Screen Wireframes
 Began working on prototype that would satisfy all user stories.
 New objectives for next week have been established.
 Wireframes have been implemented in bare bones fashion in android stuido.
+#### Gif of this weeks progress overview:
+
+![NexterciseWireframes](https://user-images.githubusercontent.com/42733286/139786106-46a8fe68-2736-4620-87a0-71de82090d00.gif)
