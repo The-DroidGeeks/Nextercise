@@ -148,3 +148,14 @@ Wireframes have been implemented in bare bones fashion in android stuido.
 #### Gif of this weeks progress overview:
 
 ![NexterciseWireframes](https://user-images.githubusercontent.com/42733286/139786106-46a8fe68-2736-4620-87a0-71de82090d00.gif)
+
+### Unit 11 Stories Completed:
+
+Continued working on the prototype to satisfy the user stories
+Made the Java activities functioning by allowing navigation between screens using buttons with onCLickListeners
+Found an API that might be useful in creating application at wger.de/en/software/api
+
+###Gif of this weeks progress overview: 
+![NexterciseJavaonClick](https://user-images.githubusercontent.com/42733286/140869341-a4f97ebf-e048-41f7-bdca-2923a7fb26a5.gif)
+
+
