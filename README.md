@@ -158,4 +158,16 @@ Found an API that might be useful in creating application at wger.de/en/software
 ###Gif of this weeks progress overview: 
 ![NexterciseJavaonClick](https://user-images.githubusercontent.com/42733286/140869341-a4f97ebf-e048-41f7-bdca-2923a7fb26a5.gif)
 
+### Unit 12 Stories completed: 
 
+Completed database research and implemented a database to store exercise and user info.
+implemented code to allow users to login.
+Finished planning for final app build.
+Found a new API seems more useful than the previous one.
+Made mock users and exercises in the database.
+
+This weeks progress was delayed a bit due to sickness, and it's not included in the screenshot but the link to the new API is: https://github.com/davejt/exercise/blob/master/README.md
+
+###Gif of this weeks progress overviewed:
+
+![NexterciseBack4App](https://user-images.githubusercontent.com/42733286/142351251-3c2c1e99-7a4b-4893-865d-2a71f2f254c0.gif)
