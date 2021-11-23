@@ -171,3 +171,10 @@ This weeks progress was delayed a bit due to sickness, and it's not included in 
 ###Gif of this weeks progress overviewed:
 
 ![NexterciseBack4App](https://user-images.githubusercontent.com/42733286/142351251-3c2c1e99-7a4b-4893-865d-2a71f2f254c0.gif)
+
+### Unit 13
+
+Worked on  all user stories aside from the exercise recommendation system. Almost everyting is functional however issues were ran into when testing so more testing will be completed this week and the additional user story will be implemented this next week as well. \
+Additionally added extra exercises to the database for testing/ demonstration purposes.
+
+### Gif of this weeks progress: ![NexterciseUnit13](https://user-images.githubusercontent.com/42733286/142975798-cfbb3151-1d2a-42db-82d4-be0cf1ec966e.gif)
